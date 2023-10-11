@@ -3,3 +3,48 @@
     height: 100px;
     background: yellow;
 }
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    background: #f4f4f4;
+}
+
+#principal{
+    width: auto;
+    height: auto;
+}
+
+#cabecalho-superior{
+    width: 100px;
+}
+
+#menu-cima{
+    width:960px;
+    height: 20px;
+    background: #FFF;
+    margin: 0 auto;
+
+    font-size:10px;
+}
+
+#menu-cima ul{
+    width: 300px;
+    float:right;
+    text-align: right;
+    margin-right: 20px;
+}
+
+#menu-cima ul li{
+    display: inline;
+    margin-left: 10px;
+}
+
+#menu-cima ul li a{
+
+}
