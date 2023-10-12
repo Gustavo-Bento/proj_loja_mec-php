@@ -24,6 +24,10 @@ body{
     width: 100px;
 }
 
+.fundo_azul{
+    background: #28A5d9;
+}
+
 #menu-cima{
     width:960px;
     height: 20px;
@@ -46,5 +50,15 @@ body{
 }
 
 #menu-cima ul li a{
+    color: #000;
+    text-decoration: none;
+}
 
+#menu-cima ul li a :hover{
+    color: red;
+}
+
+#cabecalho_meio{
+    width: 100%;
+    height: 110px;
 }

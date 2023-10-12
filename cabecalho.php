@@ -8,7 +8,7 @@
         </ul>
     </nav>
 </div>
-<div id="cabecalho_meio">
+<div id="cabecalho_meio" class="fundo_azul">
     <h1>Lojas MEC - os melhores eletrodomesticos estão aqui</h1>
     <p>Nenhum item no seu carrinho de compras</p>
     <section>
